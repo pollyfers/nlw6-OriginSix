@@ -21,7 +21,7 @@ It contains the following sections: Header, Navigation, Home, About, Services, T
 <li><a href='https://fonts.google.com/'>Google Fonts</a></li>
 </ul>
 
-<b>Utilities</b>
+<b>Utilities:</b>
 
 <ul>
 <li><a href='https://icomoon.io/app/#/select'>IconMoon</a></li>

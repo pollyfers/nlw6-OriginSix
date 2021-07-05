@@ -1,4 +1,4 @@
-<h1>Project made in the NLW 6 by Rocketseat. <br/><center>Project OriginSix.</center></h1>
+<h1>Project developed during the NLW 6 by Rocketseat. <br/><center>Project OriginSix.</center></h1>
 
 <b>Project</b>
 

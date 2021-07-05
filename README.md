@@ -1,6 +1,7 @@
-<h1>Project developed during the NLW 6 by Rocketseat. <br/><center>Project OriginSix.</center></h1>
+<h1>OriginSix - Project developed during the NLW 6 by Rocketseat.</h1>
+<br/>
 
-<b>Project</b>
+<b>Project:</b>
 
 The project OriginSix is a responsive One Page website for use in a variety of micro, small and medium-sized businesses. 
 It contains the following sections: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer.
